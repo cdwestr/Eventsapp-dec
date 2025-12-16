@@ -1,2 +1,2 @@
-# Eventsapp-dec
-2nd attempt 
+# eventsappstart
+This is a simple events app
